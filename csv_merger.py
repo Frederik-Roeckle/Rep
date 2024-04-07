@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # set directory of csv files
-filedir = "D:\APMProject\process-complexity"
+filedir = "prepared_csv_data"
 
 filenames = [
     "2020_DomesticDeclarations_metrics.csv",
@@ -32,5 +32,5 @@ for filename in filenames:
         combined_df = pd.merge(combined_df, filedf, how="outer")
 
 # print(combined_df.head())
-combined_df.to_csv("merged.csv", index=False)
+combined_df.to_csv("generated_merged.csv", index=False)
 print('Saved merged.csv')
