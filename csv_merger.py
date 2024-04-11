@@ -15,7 +15,11 @@ filenames = [
     "BPIC15_3_metrics.csv",
     "BPIC15_4_metrics.csv",
     "BPIC15_5_metrics.csv",
-    "BPI_Challenge2017_metrics.csv",
+    "BPI_Challenge_2017_metrics.csv",
+    "BPI_Challenge_2018_metrics.csv",
+    "BPI_Challenge_2019_metrics.csv",
+    "Hospital_log_metrics.csv"
+
 ]
 
 combined_df = None
