@@ -1,4 +1,4 @@
-# Reproduction of
+# Technical reproduction of "The Impact of Process Complexity on Process Performance: A Study Using Event Log Data"
 
 Reproduction of the research results of the paper "The Impact of Process Complexity on Process Performance: A Study Using Event Log Data” as part of a group project in Advanced Process Mining from University of Mannheim
 
@@ -44,4 +44,8 @@ To preprae the metrices for the dowloaded event log files, we need to execute th
 
 After generating all the CSV files using **over_time.py** script, we need to merge them in a single file. That file will be similar to the **merged.csv** file in the project [Complexity Data](https://github.com/MaxVidgof/complexity-data).
 
-**This is not done yet, because over_time.py script takes a lot of time to finish for a single file on my PC**
+We registered that there are some minor floating differences between our calculations and the ones from the author.
+
+**WIP**
+
+- [ ] Floating point error: https://github.com/Frederik-Roeckle/Rep_ImpactProcessComplexity/issues/8 
