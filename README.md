@@ -1,4 +1,4 @@
-# Reproduction of 
+# Reproduction of "The Impact of Process Complexity on Process Performance: A Study Using Event Log Data”
 Reproduction of the research results of the paper "The Impact of Process Complexity on Process Performance: A Study Using Event Log Data” as part of a group project in Advanced Process Mining from University of Mannheim
 
 Paper:
@@ -13,3 +13,5 @@ Repository: Your repository (provide a link in your slide set) should contain th
 • Raw results (only if relevant, e.g., more detailed results than shown in the slides, not yet aggregated
 results, …).
 • System information on which machine(s) you ran the replication experiment on.
+
+
