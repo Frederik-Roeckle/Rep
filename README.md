@@ -8,7 +8,7 @@ Vidgof, M., Wurm, B., Mendling, J. (2023). The Impact of Process Complexity on P
 ## TODOs
 
 Repository: Your repository (provide a link in your slide set) should contain the following:
-• Important: Step-by-step instructions on how we can obtain the results that you report.
+\n• Important: Step-by-step instructions on how we can obtain the results that you report.
 • Necessary code for the replication and any download links for code/libraries/data.
 • Raw results (only if relevant, e.g., more detailed results than shown in the slides, not yet aggregated
 results, …).
