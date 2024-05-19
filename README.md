@@ -14,7 +14,7 @@ Repository: Your repository (provide a link in your slide set) should contain th
 • Raw results (only if relevant, e.g., more detailed results than shown in the slides, not yet aggregated
 results, …).
 
-## Project slides:
+## Project slides
 
 
 ## Step-by-step Instructions on how to replicate the experiment
