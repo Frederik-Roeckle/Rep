@@ -38,6 +38,7 @@ To begin with, we first need to upload to the notebook’s environment the neede
 In case you might want to run this code locally, you should erase the code that mounts the content of your Google Drive storage and adapt the file path of the .csv file to your machine, otherwise the file should be in your Google Drive storage and also the file path should be modified accordingly.
 Once the code and the file is adapted to your environment, in case you also run the code locally, you should verify that all the imports are on your local machine.
 If all previous steps are done correctly, the code’s execution is straightforward and no more interventions are needed. 
+
 The code consists of several processes that can be summed up into two main sections:
 
 •	A preprocessing part of the .csv file to prepare the data to be passed to the regression analysis.
