@@ -1,0 +1,41 @@
+,0
+Affinity,45860094.5306766
+Maximum trace length,-4508.288832025191
+Variety,-315654.3381578149
+Number of activity repetitions in period,9147.264845497572
+Time granularity,6129.289541795937
+Time granularity,-6126.938991849609
+Deviation from random,25176622.854466677
+Simple Sequence Entropy,-1176.95534087258
+Number of simple cycles in period,219.29695461864685
+Pentland task complexity,-5752.288220620445
+Minimum trace length,439411.46258751367
+Simple Normalized Sequence Entropy,310326458.6689324
+"Enriched Normalized Sequence Entropy (exponential forgetting, k1)",555174284.3219192
+Simple Normalized Sequence Entropy (linear forgetting),593228857.9093165
+Cases,6800.496923321481
+Lempel-Ziv,1423.3306551685746
+Support,6775.456826756767
+const,-91039158.50890169
+Number of distinct activities,286712.4221953937
+"Enriched Sequence Entropy (exponential forgetting, k1)",-1821.7141504377048
+Enriched Sequence Entropy (linear forgetting),1187.6461304296754
+Magnitude,-1946.1377827722172
+Distinct traces,-5958074.540983341
+Median number of simple cycles per trace,-690556.4262275563
+Enriched Sequence Entropy,-7135.630937731865
+Simple Variant Entropy,1007.5530110815253
+Enriched Normalized Sequence Entropy,44727961833.53168
+Level of detail,2920009.31929635
+Average number of simple cycles per trace,-1700365.1194197005
+Structure,35537035.681744985
+Average number of activity repetitions per trace,-1448280.8906199653
+Average trace length,1471604.2531016055
+"Simple Normalized Sequence Entropy (exponential forgetting, k1)",-936589098.1421897
+Median number of activity repetitions per trace,-1585643.9083450679
+"Simple Sequence Entropy (exponential forgetting, k1)",4017.4055882848393
+Simple Sequence Entropy (linear forgetting),-2686.236144792293
+Enriched Variant Entropy,7599.85578130123
+Enriched Normalized Sequence Entropy (linear forgetting),-365771778.9266151
+Enriched Normalized Variant Entropy,-44881263592.07831
+Simple Normalized Variant Entropy,-16705434.44734107

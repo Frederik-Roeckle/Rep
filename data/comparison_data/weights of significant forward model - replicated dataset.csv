@@ -1,0 +1,49 @@
+,0
+Affinity,1499563229.9432888
+Simple Normalized Variant Entropy,-3069364941.623323
+Deviation from random,4236744533.8859186
+Enriched Normalized Sequence Entropy,-1034325347006.8473
+Average handover of work per trace,59970297.82062135
+Average number of participants per trace,-183818161.12175614
+Median number of participants per trace,144922476.75701928
+Level of detail,14424857778.00299
+Lempel-Ziv,83101.0313907871
+Number of simple cycles in period,17830.51145845985
+Maximum trace length,-48125.532068996254
+Number of activity repetitions in period,4867.007880854962
+Median number of simple cycles per trace,-338273300.7440689
+Median number of activity repetitions per trace,73017714.97604863
+Simple Sequence Entropy,-2584.9165917523105
+Structure,544188240.2179343
+Pentland task complexity,32518.58420133827
+Variety,79245860.23514569
+Enriched Normalized Sequence Entropy (linear forgetting),-4804602300.817726
+Simple Normalized Sequence Entropy (linear forgetting),7635165998.090447
+"Simple Normalized Sequence Entropy (exponential forgetting, k1)",-11129000016.647068
+Distinct traces,401731374.1968681
+Time granularity,-35090770394834.41
+Time granularity,35090770394802.29
+Average number of activity repetitions per trace,14387457731.681326
+Average number of simple cycles per trace,81994326.99934103
+Median handover of work per trace,-39195314.93101256
+Enriched Normalized Variant Entropy,1035460023815.072
+Number of distinct activities,-78460642.73815952
+Average trace length,-14437135695.174202
+const,-3861069572.403063
+Simple Sequence Entropy (linear forgetting),-8262.319315012031
+Simple Variant Entropy,-3877.484683293128
+Cases,-90141141943.37627
+"Enriched Normalized Sequence Entropy (exponential forgetting, k1)",6417395999.190754
+Simple Normalized Sequence Entropy,1926199995.778271
+Support,90141098304.23807
+Enriched Sequence Entropy (linear forgetting),5851.2220975932605
+Magnitude,-33079.197090222944
+"Enriched Sequence Entropy (exponential forgetting, k1)",-6153.34383353372
+"Simple Sequence Entropy (exponential forgetting, k1)",9370.908103078287
+Enriched Sequence Entropy,438945498099061.2
+Median handover of work from participant,962522.9266712776
+Number of participants in period,829108.2631950824
+Handover of work in period,11625.032142366405
+Average handover of work from participant,-865985.6309749872
+Minimum trace length,-348337.55649750074
+Enriched Variant Entropy,-438945498096186.7
